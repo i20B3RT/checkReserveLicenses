@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CheckReserveLicenses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckReserveLicenses_jar</output-path>
+    <root id="archive" name="CheckReserveLicenses.jar">
+      <element id="module-output" name="CheckReserveLicenses" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Resources/jt400-9.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

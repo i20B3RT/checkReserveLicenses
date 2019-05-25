@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/rjmorales/IdeaProjects/CheckReserveLicenses/src/com
+ /uscold/main/
+Main-Class: com.uscold.main.CheckLpnReserves
+
